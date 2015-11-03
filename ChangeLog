@@ -1,0 +1,39 @@
+commit 9adfbb0c9184c73b55be1f37f8028feb0cf98b5c
+Author: Fabrizio Cirelli <cirelli94@gmail.com>
+Date:   Tue Nov 3 13:51:03 2015 +0100
+
+    Revert "modifica 3"
+    
+    This reverts commit fcce1d8e48e09306249005bb7dd5f656329dc297.
+
+commit e764de80086c7eb212b890ce85f1da6999f23330
+Author: Fabrizio Cirelli <cirelli94@gmail.com>
+Date:   Tue Nov 3 13:49:45 2015 +0100
+
+    Revert "prova git commit -a"
+    
+    This reverts commit 9e201e5d708b1b5ae8a900a9c3ac75a29407ee5a.
+
+commit 9e201e5d708b1b5ae8a900a9c3ac75a29407ee5a
+Author: Fabrizio Cirelli <cirelli94@gmail.com>
+Date:   Tue Nov 3 13:41:54 2015 +0100
+
+    prova git commit -a
+
+commit fcce1d8e48e09306249005bb7dd5f656329dc297
+Author: Fabrizio Cirelli <cirelli94@gmail.com>
+Date:   Tue Nov 3 13:30:45 2015 +0100
+
+    modifica 3
+
+commit 769510f9e88ad4db9531493b85856c0bf048d537
+Author: Fabrizio Cirelli <cirelli94@gmail.com>
+Date:   Tue Nov 3 13:20:37 2015 +0100
+
+    Backup 1
+
+commit b22e13b4a060dc61f1ec02bcf26b91723dc3e524
+Author: Fabrizio Cirelli <cirelli94@gmail.com>
+Date:   Tue Nov 3 13:08:29 2015 +0100
+
+    Initial commit
