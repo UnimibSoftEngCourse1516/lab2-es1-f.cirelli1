@@ -1,3 +1,4 @@
+modifica per provare git commit -a
 Aggiunta di contenuto
 Aggiunta di altro contenuto
 Aggiunta di ancora altro contenuto
